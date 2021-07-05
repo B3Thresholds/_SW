@@ -1,0 +1,13 @@
+{
+  "theForce": [
+    {
+      "senseForce": "Light",
+    },
+    {
+      "senseForce": "Dark",
+    },
+    {
+      "senseForce": "Neutral",
+    }
+  ]
+}
